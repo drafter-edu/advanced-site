@@ -1,3 +1,7 @@
+"""
+State management for your Drafter website.
+"""
+
 from dataclasses import dataclass
 
 

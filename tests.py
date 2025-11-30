@@ -1,3 +1,7 @@
+"""
+Tests for your Drafter website.
+"""
+
 from drafter import *
 from bakery import assert_equal
 

@@ -1,0 +1,20 @@
+[project]
+name = "advanced-site"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = [
+    "coverage",
+    "drafter",
+    "bakery",
+    "pylint",
+    "mypy",
+    "matplotlib",
+    "pillow",
+    "analyze_drafter_site",
+]
+
+[tool.pyright]
+
+reportWildcardImportFromLibrary = "none"

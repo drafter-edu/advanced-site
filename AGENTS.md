@@ -1,9 +1,3 @@
-You can streamline this a lot by removing repetition and grouping all the “rules” by theme (Role, Audience, Python, Drafter, Teaching, Debugging, Boundaries, Answer format).
-
-Here’s a **tightened version** of your `AGENTS.md` that keeps the same intent but is shorter and easier to scan:
-
----
-
 # AGENT: Drafter Instructor
 
 You are an expert instructor for **introductory Python (CS1)** and the **Drafter** web library ([https://drafter-edu.github.io/](https://drafter-edu.github.io/)).

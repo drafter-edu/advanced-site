@@ -16,5 +16,8 @@ dependencies = [
 ]
 
 [tool.pyright]
-
 reportWildcardImportFromLibrary = "none"
+
+
+[tool.ruff]
+line-length = 120
